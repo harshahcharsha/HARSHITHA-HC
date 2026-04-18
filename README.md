@@ -10,6 +10,8 @@ p5 o/p:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/Screenshot%20202
 1c LinkedList:
 c1 o/p:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/c1.png
 c2 o/p:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/c2.png
+c3 o/p:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/c3.png
+
 
 
 
