@@ -59,6 +59,15 @@ Q10 O/P:https://github.com/harshahcharsha/HARSHITHAHC/blob/main/Q10.png
 
 4c o/p: https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/4c.png
 
+5a o/p:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/5A.jpeg
+
+5b o/p:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/5B.jpeg
+
+5c o/p:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/5C.jpeg
+
+5d o/p:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/5D.jpeg
+
+
 
 
 
