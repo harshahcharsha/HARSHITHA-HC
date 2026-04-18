@@ -9,6 +9,8 @@ p4 o/p:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/Screenshot%20202
 p5 o/p:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/Screenshot%202026-04-18%20235922.png
 1c LinkedList:
 c1 o/p:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/c1.png
+c2 o/p:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/c2.png
+
 
 
 
