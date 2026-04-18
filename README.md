@@ -14,6 +14,36 @@ c3 o/p:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/c3.png
 c4 o/p:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/c4.png
 c5 o/p:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/c5.png
 
+2A O/P:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/2a.png
+2B O/P:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/2b.png
+
+ 3B String Exercise progams
+
+Q1 O/P:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/Q1.png
+
+Q2 O/P:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/Q2.png
+
+Q3 O/P:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/Q3.png
+
+Q4 O/P:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/Q4.png
+
+Q5 O/P:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/Q5.png
+
+Q6 O/P:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/Q6.png
+
+Q7 O/P:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/Q7.png
+
+Q8 O/P:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/Q8.png
+
+Q9 O/P:https://github.com/harshahcharsha/HARSHITHA-HC/blob/main/Q9.png
+
+Q10 O/P:https://github.com/harshahcharsha/HARSHITHAHC/blob/main/Q10.png
+
+
+
+
+
+
 
 
 
