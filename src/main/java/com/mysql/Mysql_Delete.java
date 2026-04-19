@@ -1,7 +1,7 @@
 package com.mysql;
 import java.sql.*;
 import java.util.Properties;
-
+/*  Read all the existing records from the table coffee which is from the database test and delete an existing coffee product  from the table with its id.*/
 public class Mysql_Delete
 {
 
