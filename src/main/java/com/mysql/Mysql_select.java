@@ -1,7 +1,9 @@
 package com.mysql;
 import java.sql.*;
 import java.util.Properties;
+/* 11a. Read all the existing records from the table coffee which is from the database test and insert a new coffee product into it 
 
+*/
 public class Mysql_select
 {
   public static void main(String[] args)
