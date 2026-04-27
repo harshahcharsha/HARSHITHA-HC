@@ -1,0 +1,126 @@
+/* Default background (all pages) */
+body {
+    background: #E0F7FF;   /* sky blue */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Home page only */
+body.home-page {
+    background: #E6E6FA;   /* lavender */
+}
+
+/* Container */
+.container {
+    text-align: center;
+    margin-top: 80px;
+}
+
+/* Headings */
+h1, h2 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+/* Form box */
+.form-box {
+    width: 350px;
+    margin: 40px auto;
+    background: #ffffffcc;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+/* Inputs */
+input, select {
+    width: 95%;
+    padding: 10px;
+    margin: 8px 0;
+    border-radius: 6px;
+    border: 1px solid #bbb;
+}
+
+/* Submit button */
+input[type="submit"] {
+    background: #7aa6ff;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background: #5c8df6;
+}
+
+/* General links */
+a {
+    text-decoration: none;
+    color: #333;
+    background: #cfe2ff;
+    padding: 10px 15px;
+    border-radius: 6px;
+    display: inline-block;
+    margin: 5px 0;
+}
+
+a:hover {
+    background: #b6d4ff;
+}
+
+/* Table styling */
+table {
+    width: 90%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background: #ffffffcc;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+th, td {
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background: #7aa6ff;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background: #f2f7ff;
+}
+
+/* Back button */
+.back {
+    display: inline-block;
+    margin-top: 15px;
+}
+
+/* ===================== */
+/* REPORT PAGE BUTTONS */
+/* ===================== */
+
+.btn {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    background: #6c8cd5;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background: #5a78c0;
+}

@@ -1,0 +1,43 @@
+<web-app>
+
+<servlet>
+    <servlet-name>AddPatientServlet</servlet-name>
+    <servlet-class>com.servlet.AddPatientServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>AddPatientServlet</servlet-name>
+    <url-pattern>/AddPatientServlet</url-pattern>
+</servlet-mapping>
+
+<servlet>
+    <servlet-name>DisplayPatientsServlet</servlet-name>
+    <servlet-class>com.servlet.DisplayPatientsServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>DisplayPatientsServlet</servlet-name>
+    <url-pattern>/DisplayPatientsServlet</url-pattern>
+</servlet-mapping>
+
+<servlet>
+    <servlet-name>DeletePatientServlet</servlet-name>
+    <servlet-class>com.servlet.DeletePatientServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>DeletePatientServlet</servlet-name>
+    <url-pattern>/DeletePatientServlet</url-pattern>
+</servlet-mapping>
+
+<servlet>
+    <servlet-name>UpdatePatientServlet</servlet-name>
+    <servlet-class>com.servlet.UpdatePatientServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>UpdatePatientServlet</servlet-name>
+    <url-pattern>/UpdatePatientServlet</url-pattern>
+</servlet-mapping>
+
+</web-app>
